@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Tingyu Jiang",
+    "occupation": "C#全端工程師",
+    "description": "#熱愛滑雪 #旅遊 #滑水 #烹飪 #烘焙 #電影 #鋼琴 #吉他",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Innovative optimized solution seeker. Excited to be in the development phase of my new career as a software engineer. I am ambitious, adventurous, independent and a team player. Love getting out of the comfort zone to chase my dream.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "jiang.tingyu19@gmail.com",
+    "phone": "0960-609-322",
     "address": {
       "street": "(Your Street)",
       "city": "(Your City)",
@@ -23,9 +23,9 @@
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
+        "name": "medium",
         "url": "http://twitter.com",
-        "className": "fa fa-twitter"
+        "className": "fa fa-pencil"
       },
       {
         "name": "linkedin",
