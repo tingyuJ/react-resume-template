@@ -14,8 +14,8 @@
       "state": "Taiwan",
       "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://tingyujiang-resume-1.herokuapp.com/",
+    "resumedownload": "https://drive.google.com/file/d/16LoU65_ZPr-dzP6FGkStVerK1iTDYwNC/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -47,6 +47,12 @@
   "resume": {
     "skillmessage": "C#, Angular, Vue.js, JavaScript, HTML, CSS, jQuery, C, Python, MSSQL, Git",
     "education": [
+      {
+        "school": "UC Berkeley (Open Online Course)",
+        "degree": "CS61B: Data Structures and Algorithms",
+        "graduated": "Jun 2022 - Current",
+        "description": ""
+      },
       {
         "school": "WeiEdu Tibame",
         "degree": "Microsoft C# Full Stack Engineering Bootcamp",
@@ -122,27 +128,21 @@
   "portfolio": {
     "projects": [
       {
-        "title": "GoSweet",
+        "title": "Go Sweet",
         "category": "Our Bootcamp Group Project",
         "image": "GoSweet.png",
         "url": "https://drive.google.com/file/d/1jZNwi6w-WTBvuzOsje4YPGXx8y8MCrkx/view?usp=sharing"
       },
       {
         "title": "Tingyu Jiang - Resume Website",
-        "category": "A React based resume website template",
+        "category": "A React based resume website",
         "image": "ResumeWebsite.png",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://tingyujiang-resume-1.herokuapp.com/"
       },{
-        "title": "GoSweet",
-        "category": "Our Bootcamp Group Project",
-        "image": "GoSweet.png",
-        "url": "https://drive.google.com/file/d/1jZNwi6w-WTBvuzOsje4YPGXx8y8MCrkx/view?usp=sharing"
-      },
-      {
-        "title": "Tingyu Jiang - Resume Website",
-        "category": "A React based resume website template",
-        "image": "ResumeWebsite.png",
-        "url": "http://www.timbakerdev.com"
+        "title": "Wordle Helper",
+        "category": "CS50 Final Project",
+        "image": "WordleHelper.png",
+        "url": "https://cs50fp-wordlehelper.herokuapp.com/"
       }
     ]
   },
