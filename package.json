@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tingyuj.github.io/react-resume-1",
+  "homepage": "https://tingyuj.github.io/resume",
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -e resume"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
