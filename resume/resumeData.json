@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://tingyuj.github.io/resume/",
-    "resumedownload": "https://drive.google.com/file/d/13hE4r1Y6nh5yqA6TUOks-DDliaNnEuSz/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/18tkUkTs8d3wyWzwOWkPB4kAuJcZUeFiF/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -29,7 +29,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tingyu-jiang-0731",
+        "url": "https://www.linkedin.com/in/tingyujiang/",
         "className": "fa fa-linkedin"
       },
       {
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "C#, Angular, Vue.js, JavaScript, HTML, CSS, jQuery, C, Python, MSSQL, Git",
+    "skillmessage": "C#, ASP.net, MVC, EF Core, MSSQL, Angular, JavaScript, HTML, CSS, jQuery, C, Python, Git, RESTful API, Docker, NUnit, MongoDB",
     "education": [
       {
         "school": "UC Berkeley (Open Online Course)",
@@ -80,14 +80,6 @@
     ],
     "work": [
       {
-        "company": "SYSTEX",
-        "title": "Fullstack Software Designer",
-        "years": "Feb 2022 - Present",
-        "description1": "- Build maintainable and scalable applications/libraries that interact with 3rd party APIs.",
-        "description2": "- Develope corporate-scaled MVC web app with C# and Angular.",
-        "description3": "- Write stored procedures. (MSSQL)"
-      },
-      {
         "company": "Possmei International",
         "title": "Oversea Business Develop Sales",
         "years": "Aug 2020 - Apr 2021",
@@ -105,24 +97,24 @@
     ],
     "skills": [
       {
-        "name": "C#",
+        "name": "C# / ASP.net",
         "level": "85%"
       },
       {
-        "name": "Angular/Vuejs/jQuery",
-        "level": "65%"
-      },
-      {
-        "name": "JavaScript/HTML/CSS",
-        "level": "65%"
-      },
-      {
         "name": "MSSQL",
-        "level": "75%"
+        "level": "70%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Angular / JavaScript / HTML / CSS / jQuery",
+        "level": "70%"
+      },
+      {
+        "name": "C / Python",
+        "level": "50%"
+      },
+      {
+        "name": "Docker / NUnit / MongoDB",
+        "level": "50%"
       },
       {
         "name": "English",
@@ -133,21 +125,20 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Go Sweet",
-        "category": "Our Bootcamp Group Project",
-        "image": "GoSweet.png",
-        "url": "https://drive.google.com/file/d/1jZNwi6w-WTBvuzOsje4YPGXx8y8MCrkx/view?usp=sharing"
-      },
-      {
         "title": "Tingyu Jiang - Resume Website",
         "category": "A React based resume website",
         "image": "ResumeWebsite.png",
-        "url": "https://tingyujiang-resume-1.herokuapp.com/"
+        "url": "https://tingyuj.github.io/resume/"
       },{
         "title": "Wordle Helper",
         "category": "CS50 Final Project",
         "image": "WordleHelper.png",
         "url": "https://cs50fp-wordlehelper.herokuapp.com/"
+      },{
+        "title": "Todo List",
+        "category": "A side project I made to learn NUnit & MongoDB",
+        "image": "todo-list-thumbnail.png",
+        "url": "https://github.com/tingyuJ/Todo-List"
       }
     ]
   },
