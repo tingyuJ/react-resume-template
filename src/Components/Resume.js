@@ -49,18 +49,19 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
+            {work}
             <div><h3>Systex</h3>
-              <p className="info">Full Stack Developer<span>&bull;</span> <em className="date">2022/02 - present</em></p>
-              <p>- Build maintainable/scalable web applications/libraries with third-party software integration.
+              <p className="info">Full Stack Developer<span>&bull;</span> <em className="date">Feb 2022 - Feb 2023</em></p>
+              <p>- End-to-end designed and implemented functions & two plugin modules for e-commerce solutions.
+                <br />- Fixed and refactored functions to meet different clients’ needs."
+                <br />- Built maintainable/scalable web applications/libraries with third-party software integration.
                 <br />- Worked on 5+ corporate-scaled MVC web apps with layered architecture.
                 <br />- Front-end development using Angular (rxjs, boostrap)/Razor Page (jQuery, AJAX).
-                <br />- Develope back-end solutions with ASP.NET MVC/Web API (.NET Core, .NET 6, Entity Framwork, LINQ, RESTful API).
-                <br />- Write stored procedures. (MSSQL)
+                <br />- Developed back-end solutions with ASP.NET MVC/Web API (.NET Core, .NET 6, Entity Framework, LINQ, RESTful API).
+                <br />- Wrote stored procedures. (MSSQL)
                 <br />- Initiated and organized a study group.
-                <br />- Successfully lead the integration and implementation of git branches in a team of 7 developers.
               </p>
             </div>
-            {work}
           </div>
         </div>
 
@@ -74,8 +75,7 @@ class Resume extends Component {
 
           <div className="nine columns main-col">
 
-            <p>{skillmessage}
-            </p>
+            {/* <p>{skillmessage}</p> */}
 
             <div className="bars">
               <ul className="skills">
