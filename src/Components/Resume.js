@@ -73,14 +73,77 @@ class Resume extends Component {
             <h1><span>Skills</span></h1>
           </div>
 
-          <div className="nine columns main-col">
+          <div className="nine columns main-col mb-1.5">
 
             {/* <p>{skillmessage}</p> */}
 
-            <div className="bars">
+            {/* <div className="bars">
               <ul className="skills">
                 {skills}
               </ul>
+            </div> */}
+            <div className="grid grid-cols-1 gap-20 text-gray-800">
+              
+              <div className="flex flex-col">
+                <span className="text-center font-bold text-3xl my-5">TECHNICAL</span>
+                <div className="flex flex-col gap-y-2">
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">C# / ASP.NET</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-600" style={{ width: `${90}%` }} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">MSSQL</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-600" style={{ width: `${75}%` }} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">ANGULAR / VUE / JAVASCRIPT / HTML / CSS</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-600" style={{ width: `${75}%` }} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">DOCKER / NUNIT / MONGODB</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-600" style={{ width: `${50}%` }} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">JAVA / SPRING MVC / THYMELEAF / POSTGRESQL</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-600" style={{ width: `${50}%` }} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="flex flex-col">
+                <span className="text-center font-bold text-3xl my-5">LANGUAGES</span>
+                <div className="flex flex-col gap-y-2">
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">CHINESE</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-800" style={{ width: `${100}%` }} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">ENGLISH</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-800" style={{ width: `${90}%` }} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="ml-2 font-medium">JAPANESE</span>
+                    <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                      <div className="h-full rounded-full bg-sky-800" style={{ width: `${30}%` }} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>

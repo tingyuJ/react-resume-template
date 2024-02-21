@@ -19,6 +19,10 @@
     "deploy": "gh-pages -d build -e resume"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "@tailwindcss/forms": "^0.5.4",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/tailwindcss": "^3.1.0",
+    "tailwindcss": "^3.3.3"
   }
 }
