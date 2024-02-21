@@ -2,20 +2,20 @@
   "main": {
     "name": "Tingyu Jiang",
     "occupation": "FULLSTACK SOFTWARE ENGINEER",
-    "description": "#Snowboarding #Traveling #Wakeboarding #Cooking/Baking #Movies #Piano #Guitar #Programming #LearningLanguages",
+    "description": "#C# #ASP.NET #EF CORE #RESTful API #MSSQL #Angular #Vue #JavaScript #GIT #DOCKER",
     "image": "profilepic.jpg",
-    "bio": "Innovative optimized solution seeker. Excited to be in the development phase of my career as a software engineer. I am ambitious, adventurous, independent and a team player. Love getting out of the comfort zone to chase my dream.",
+    "bio": "Innovative optimized solution seeker with solid full stack end-to-end development experience in e-commerce solutions using .NET and Angular. Led a decade-long solution upgrade. Proactively initiated and organized a study group, demonstrating leadership and collaborative skills. Proficient in exceptional cross-platform and cross-team communication. Ambitious, adventurous, and independent, yet dedicated to teamwork. Passionate about software engineering, I thrive on pushing boundaries and pursuing my dreams outside the comfort zone.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jiang.tingyu19@gmail.com",
-    "phone": "0960-609-322",
+    "phone": "080-3498-6764",
     "address": {
-      "street": "Beitou",
-      "city": "Taipei",
-      "state": "Taiwan",
+      "street": "姜亭玉",
+      "city": "",
+      "state": "Tokyo, Japan",
       "zip": ""
     },
     "website": "https://tingyuj.github.io/resume/",
-    "resumedownload": "https://drive.google.com/file/d/18tkUkTs8d3wyWzwOWkPB4kAuJcZUeFiF/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1KC1QnC07HuKbFzyrQ4Jc5Tz6O-dmfOy5/edit?usp=sharing&ouid=106680831462208607951&rtpof=true&sd=true",
     "social": [
       {
         "name": "facebook",
@@ -45,12 +45,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "C#, ASP.net, MVC, EF Core, MSSQL, Angular, JavaScript, HTML, CSS, jQuery, C, Python, Git, RESTful API, Docker, NUnit, MongoDB",
+    "skillmessage": "C#, ASP.net, MVC, EF Core, MSSQL, Angular, Vue, JavaScript/HTML/CSS, Git, RESTful API, Docker, NUnit, MongoDB, Java, PostgreSQL, C, Python",
     "education": [
       {
         "school": "UC Berkeley (Open Online Course)",
         "degree": "CS61B: Data Structures and Algorithms",
-        "graduated": "Jun 2022 - Current",
+        "graduated": "Jan 2024 - Current",
         "description": ""
       },
       {
@@ -80,19 +80,20 @@
     ],
     "work": [
       {
-        "company": "Possmei International",
-        "title": "Oversea Business Develop Sales",
-        "years": "Aug 2020 - Apr 2021",
-        "description1": "- Maintain customer relationship at the biggest bubble tea ingredients export company in Taiwan.",
-        "description2": "- In charge of business in North America.",
-        "description3": "- Handle international trade and orders affairs."
+        "company": "Business Futures",
+        "title": "Software System Engineer",
+        "years": "Sep 2023 – Present",
+        "description1": "- Developed and maintained 2 front-end solutions(Vue, Nuxt) with integration to back-end APIs, ensuring cross-platform consistency across web, Android, and iOS.",
+        "description2": "- Managed and implemented eKYC module maintenance and integration.",
+        "description3": "- Developed a full-stack project (Java17, Spring MVC, Thymeleaf, PostgresSQL, Gradle), and JavaScript modules."
       },
       {
-        "company": "Rhythm Japan",
-        "title": "Retail Assistant",
-        "years": "Nov 2019 - Mar 2020",
-        "description1": "- Promote sales at the largest ski/snowboard shop in Niseko, the biggest ski resort in Hokkaido.",
-        "description2": "- Help with communication between Chinese speaking customers and coworkers in an English working environment."
+        "company": "Wishing-Soft",
+        "title": "Backend Engineer",
+        "years": "Apr 2023 – Aug 2023",
+        "description1": "- Led the upgrade of a multi-project .NET backend solution (600+ APIs) from .NET Framework 4.6 to .NET 7, overseeing seamless integration testing for a flawless transition using Postman.",
+        "description2": "- Maintained and implemented new features in two ESH SaaS solution modules (.NET 6, Dapper, CQRS).",
+        "description3": "- Practiced Agile development for efficient project management (Azure DevOps)."
       }
     ],
     "skills": [
@@ -105,15 +106,15 @@
         "level": "70%"
       },
       {
-        "name": "Angular / JavaScript / HTML / CSS / jQuery",
+        "name": "Angular / Vue / JavaScript / HTML / CSS ",
         "level": "70%"
       },
       {
-        "name": "C / Python",
+        "name": "Docker / NUnit / MongoDB",
         "level": "50%"
       },
       {
-        "name": "Docker / NUnit / MongoDB",
+        "name": "Java / Spring MVC / Thymeleaf / PostgreSQL",
         "level": "50%"
       },
       {
@@ -131,7 +132,7 @@
         "url": "https://tingyuj.github.io/resume/"
       },{
         "title": "Wordle Helper",
-        "category": "CS50 Final Project",
+        "category": "CS50 Final Project (Python, Flask, Docker)",
         "image": "WordleHelper.png",
         "url": "https://cs50fp-wordlehelper.herokuapp.com/"
       },{
@@ -145,12 +146,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "We're lucky to have her as our Class Leader and Project Leader. She's good at communicating and a great team-player!!!",
-        "user": "Bootcamp mates"
+        "text": "We're lucky to have her. She's smart and outstanding. Also good at communicating, a great team-player and fun to work with!",
+        "user": "Ex Cowoker"
       },
       {
-        "text": "Tingyu  must be one of the most brilliant developers I've ever met!  Hey you, you should hire this girl, she may not have much job experience but I am confident that she will be one of your best developers in no time!",
-        "user": "Just Kidding"
+        "text": "Tingyu is a brilliant, self-motivated developer. Not only able to solve problems independently with a clear mind but also has good communication skills and a can-do attitude. She may not have much job experience but I am confident that she will meet and exceed your expectations.",
+        "user": "Ex Team Leader"
       }
     ]
   }
